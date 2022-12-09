@@ -10,7 +10,11 @@
 Als een gebruiker wil ik kunnen inlogen zodat ik kan mee doen aan de ruilproces van de stekjes 
 <!-- Er is een User Story geschreven van de interactie -->
 
-## Wireflow
+## Wireflow voor de feedback
+![image](https://user-images.githubusercontent.com/54691201/206687857-aad4aea5-1265-4e77-a272-8b0cb6e78f23.png)
+
+
+## Wireflow na de feedback 
 ![image](https://user-images.githubusercontent.com/54691201/206686373-4dd229fe-28cc-4754-a134-7f047f6bd646.png)
 
 <!-- Toon de wireflow -->
